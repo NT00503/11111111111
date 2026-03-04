@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: data_viz_tool
+Version: 1.0.0
+Summary: A package for fetching and visualizing open data using OpenAI.
+Home-page: https://github.com/yourusername/data_viz_tool
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: requests
+Requires-Dist: openai
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
